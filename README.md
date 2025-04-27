@@ -48,7 +48,7 @@ pip install git+https://github.com/yourusername/yt-download.git
 
 ### Option 4: Standalone Executable (Windows)
 
-1. Download the latest `yt-download.exe` from the [Releases](https://github.com/yourusername/yt-download/releases) page
+1. Download the latest `yt-download.exe` from the [Releases](https://github.com/AbdelrhmanAbuelnile/yt-download/releases) page
 2. Add the executable location to your PATH or use it directly
 
 ## Usage
